@@ -1,2 +1,3 @@
-# java-http-request
-Simple boiler-plate for making an HTTP request in Java
+# Sample Java HTTP Request
+__Simple boiler-plate for making an HTTP request in Java.__
+
